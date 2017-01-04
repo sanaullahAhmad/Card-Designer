@@ -1,0 +1,1 @@
+[25-May-2016 06:34:27 GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be resource, boolean given in /home/localeca/public_html/HTML5CanvasSAASFlyerTool/editor/admin/get_templates.php on line 11

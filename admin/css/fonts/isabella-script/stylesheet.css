@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Isabella Script';
+	src: url('IsabellaScript.eot');
+	src: url('IsabellaScript.eot?#iefix') format('embedded-opentype'),
+		url('IsabellaScript.woff') format('woff'),
+		url('IsabellaScript.ttf') format('truetype'),
+		url('IsabellaScript.svg#IsabellaScript') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
