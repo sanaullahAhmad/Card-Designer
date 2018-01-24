@@ -9,6 +9,8 @@ https://github.com/sanaullahAhmad/Card-Designer-/blob/master/library/config.php
 
 # PDF out put functionality
 for output as pdf simple change this line 149  in https://github.com/sanaullahAhmad/Card-Designer/blob/master/pdf.php to
+and
+for output as pdf In admin, change this line 149  in https://github.com/sanaullahAhmad/Card-Designer/blob/master/admin/pdf.php to
 
 	$filename = $_SERVER['DOCUMENT_ROOT'] . "carddesigner/outputpdfs/" . $_POST['filename'];
 
